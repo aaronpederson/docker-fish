@@ -1,4 +1,4 @@
 FROM aaronpederson/ubuntu
 
-RUN apt update
-RUN yes | apt install fish
+RUN apt-get update
+RUN yes | apt-get install fish
