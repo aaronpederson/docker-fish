@@ -1,0 +1,9 @@
+---
+- name: Install Packages | apt
+  apt:
+    state: latest
+    name: fish
+  tags:
+    - fish
+    - software-installation
+    - using-apt
