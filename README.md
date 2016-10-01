@@ -2,7 +2,7 @@
 
 [Fish](https://fishshell.com/) - A smart and user-friendly command line shell for OS X, Linux, and the rest of the family.
 
-[![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
+![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)[![](https://images.microbadger.com/badges/image/aaronpederson/fish.svg)](https://microbadger.com/images/aaronpederson/fish "Get your own image badge on microbadger.com")
 
 Tunables
 --------
